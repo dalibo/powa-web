@@ -1,11 +1,16 @@
-
-![PostgreSQL Workload Analyzer](https://github.com/dalibo/powa/blob/master/img/powa_logo.410x161.png)
-
 PoWA Web
 =========
 
-This project is a User Interface to the [PoWA](http://dalibo.github.io/powa/) project.
+PostgreSQL Workload Analyzer.
 
-For more information, please read the [PoWA-web documentation](http://powa.readthedocs.io/en/latest/powa-web/index.html):
+__**!!WARNING!!**__
 
-http://powa.readthedocs.io/en/latest/powa-web/index.html
+The PoWA project official repositories have **moved** to the
+[powa-team](https://github.com/powa-team) organization.
+
+Don't forget to update your git remote!
+
+~~~
+git remote set-url origin git@github.com:powa-team/powa-web.git
+~~~
+
